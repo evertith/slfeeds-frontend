@@ -15,7 +15,7 @@ const Contact = () => {
           <div className={styles.contactCard}>
             <div className={styles.mapContainer}>
               <iframe
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3230.6!2d-80.267!3d35.732!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2s1090+S+NC+Hwy+150+Lexington+NC!5e0!3m2!1sen!2sus!4v1234567890"
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3222.7578!2d-80.2692!3d35.7320!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8853f3e7a0a0a0a1%3A0x0!2s1090+S+NC-150%2C+Lexington%2C+NC+27292!5e0!3m2!1sen!2sus"
                 allowFullScreen=""
                 loading="lazy"
                 referrerPolicy="no-referrer-when-downgrade"
